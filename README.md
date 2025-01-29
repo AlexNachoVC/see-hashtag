@@ -1,5 +1,3 @@
 # FirstC#
 
-hola bola
-
-otra vez
+syntax exploration
