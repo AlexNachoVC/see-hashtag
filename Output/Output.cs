@@ -1,14 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace FirstC_.Output
+﻿namespace Output
 {
-    internal class Output
+    public class OutputClass
     {
-        static void Main(string[] args)
+        public static void Explore()
         {
             Console.Write("Hey!"); // doesnt add a new line after the string displayed
             Console.WriteLine("Hello!"); // adds a new line after displaying String literal
