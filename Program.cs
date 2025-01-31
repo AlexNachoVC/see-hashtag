@@ -3,6 +3,7 @@ using Output;
 using Variables;
 using Constants;
 using TypeCasting;
+using UserInput;
 
 class Program
 {
@@ -11,6 +12,7 @@ class Program
         // OutputClass.Explore();
         // VariablesClass.Explore();
         // ConstantsClass.Explore();
-        TypeCastingClass.Explore();
+        // TypeCastingClass.Explore();
+        UserInputClass.Explore();
     }
 }
