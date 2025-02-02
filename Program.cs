@@ -7,6 +7,7 @@ using UserInput;
 using Arithmetic;
 using Maths;
 using RandomNumber;
+using HypothenuseCalculator;
 
 class Program
 {
@@ -19,6 +20,7 @@ class Program
         // UserInputClass.Explore();
         // ArithmeticClass.Explore();
         // MathClass.Explore();
-        RandomNumberClass.Explore();
+        // RandomNumberClass.Explore();
+        HypothenuseCalculatorClass.Explore();
     }
 }
