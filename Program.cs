@@ -6,6 +6,7 @@ using TypeCasting;
 using UserInput;
 using Arithmetic;
 using Maths;
+using RandomNumber;
 
 class Program
 {
@@ -17,6 +18,7 @@ class Program
         // TypeCastingClass.Explore();
         // UserInputClass.Explore();
         // ArithmeticClass.Explore();
-        MathClass.Explore();
+        // MathClass.Explore();
+        RandomNumberClass.Explore();
     }
 }
