@@ -4,6 +4,8 @@ using Variables;
 using Constants;
 using TypeCasting;
 using UserInput;
+using Arithmetic;
+using Maths;
 
 class Program
 {
@@ -13,6 +15,8 @@ class Program
         // VariablesClass.Explore();
         // ConstantsClass.Explore();
         // TypeCastingClass.Explore();
-        UserInputClass.Explore();
+        // UserInputClass.Explore();
+        // ArithmeticClass.Explore();
+        MathClass.Explore();
     }
 }
