@@ -8,6 +8,7 @@ using Arithmetic;
 using Maths;
 using RandomNumber;
 using HypothenuseCalculator;
+using StringMethods;
 
 class Program
 {
@@ -21,6 +22,7 @@ class Program
         // ArithmeticClass.Explore();
         // MathClass.Explore();
         // RandomNumberClass.Explore();
-        HypothenuseCalculatorClass.Explore();
+        // HypothenuseCalculatorClass.Explore();
+        StringMethodsClass.Explore();
     }
 }

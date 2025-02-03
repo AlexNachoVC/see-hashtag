@@ -10,7 +10,7 @@
             Console.WriteLine("Enter side B:");
             double b = Convert.ToDouble(Console.ReadLine());
 
-            double c = Math.Sqrt(a * a + b * b);
+            double c = Math.Sqrt((a * a) + (b * b));
 
             Console.WriteLine("The hypothenuse is: " + c);
         }
