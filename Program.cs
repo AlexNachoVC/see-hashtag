@@ -9,6 +9,8 @@ using Maths;
 using RandomNumber;
 using HypothenuseCalculator;
 using StringMethods;
+using Ifs;
+using Switches;
 
 class Program
 {
@@ -23,6 +25,8 @@ class Program
         // MathClass.Explore();
         // RandomNumberClass.Explore();
         // HypothenuseCalculatorClass.Explore();
-        StringMethodsClass.Explore();
+        // StringMethodsClass.Explore();
+        // IfsClass.Explore();
+        SwitchesClass.Explore();
     }
 }
