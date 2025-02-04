@@ -11,6 +11,7 @@ using HypothenuseCalculator;
 using StringMethods;
 using Ifs;
 using Switches;
+using LogicalOperators;
 
 class Program
 {
@@ -27,6 +28,7 @@ class Program
         // HypothenuseCalculatorClass.Explore();
         // StringMethodsClass.Explore();
         // IfsClass.Explore();
-        SwitchesClass.Explore();
+        // SwitchesClass.Explore();
+        LogicalOperatorsClass.Explore();
     }
 }
