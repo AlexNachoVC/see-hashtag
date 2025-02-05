@@ -15,6 +15,7 @@ using LogicalOperators;
 using While;
 using For;
 using NestedLoops;
+using NumberGuessing;
 
 class Program
 {
@@ -35,6 +36,7 @@ class Program
         // LogicalOperatorsClass.Explore();
         // WhileClass.Explore();
         // ForClass.Explore();
-        NestedLoopsClass.Explore();
+        // NestedLoopsClass.Explore();
+        NumberGuessingClass.Explore();
     }
 }
