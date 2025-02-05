@@ -12,6 +12,9 @@ using StringMethods;
 using Ifs;
 using Switches;
 using LogicalOperators;
+using While;
+using For;
+using NestedLoops;
 
 class Program
 {
@@ -29,6 +32,9 @@ class Program
         // StringMethodsClass.Explore();
         // IfsClass.Explore();
         // SwitchesClass.Explore();
-        LogicalOperatorsClass.Explore();
+        // LogicalOperatorsClass.Explore();
+        // WhileClass.Explore();
+        // ForClass.Explore();
+        NestedLoopsClass.Explore();
     }
 }
