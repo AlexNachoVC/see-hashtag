@@ -16,6 +16,8 @@ using While;
 using For;
 using NestedLoops;
 using NumberGuessing;
+using RockPaperScissors;
+using Calculator;
 
 class Program
 {
@@ -37,6 +39,8 @@ class Program
         // WhileClass.Explore();
         // ForClass.Explore();
         // NestedLoopsClass.Explore();
-        NumberGuessingClass.Explore();
+        // NumberGuessingClass.Explore();
+        // RockPaperScissorsClass.Explore();
+        CalculatorClass.Explore();
     }
 }
