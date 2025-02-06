@@ -19,6 +19,7 @@ using NumberGuessing;
 using RockPaperScissors;
 using Calculator;
 using Arrays;
+using ForEach;
 
 class Program
 {
@@ -43,6 +44,7 @@ class Program
         // NumberGuessingClass.Explore();
         // RockPaperScissorsClass.Explore();
         // CalculatorClass.Explore();
-        ArraysClass.Explore();
+        // ArraysClass.Explore();
+        ForEachClass.Explore();
     }
 }
