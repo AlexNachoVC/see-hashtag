@@ -18,6 +18,7 @@ using NestedLoops;
 using NumberGuessing;
 using RockPaperScissors;
 using Calculator;
+using Arrays;
 
 class Program
 {
@@ -41,6 +42,7 @@ class Program
         // NestedLoopsClass.Explore();
         // NumberGuessingClass.Explore();
         // RockPaperScissorsClass.Explore();
-        CalculatorClass.Explore();
+        // CalculatorClass.Explore();
+        ArraysClass.Explore();
     }
 }
