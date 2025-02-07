@@ -21,6 +21,7 @@ using Calculator;
 using Arrays;
 using ForEach;
 using Methods;
+using Return;
 
 class Program
 {
@@ -47,6 +48,7 @@ class Program
         // CalculatorClass.Explore();
         // ArraysClass.Explore();
         // ForEachClass.Explore();
-        MethodsClass.Explore();
+        // MethodsClass.Explore();
+        ReturnClass.Explore();
     }
 }
