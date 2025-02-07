@@ -20,6 +20,7 @@ using RockPaperScissors;
 using Calculator;
 using Arrays;
 using ForEach;
+using Methods;
 
 class Program
 {
@@ -45,6 +46,7 @@ class Program
         // RockPaperScissorsClass.Explore();
         // CalculatorClass.Explore();
         // ArraysClass.Explore();
-        ForEachClass.Explore();
+        // ForEachClass.Explore();
+        MethodsClass.Explore();
     }
 }
