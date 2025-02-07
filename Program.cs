@@ -23,6 +23,7 @@ using ForEach;
 using Methods;
 using Return;
 using MethodOverloading;
+using Params;
 
 class Program
 {
@@ -51,6 +52,7 @@ class Program
         // ForEachClass.Explore();
         // MethodsClass.Explore();
         // ReturnClass.Explore();
-        MethodOverloadingClass.Explore();
+        // MethodOverloadingClass.Explore();
+        ParamsClass.Explore();
     }
 }
