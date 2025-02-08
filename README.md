@@ -2,4 +2,4 @@
 
 syntax exploration
 
-pipiririripum
+sick :(
