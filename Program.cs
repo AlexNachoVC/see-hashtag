@@ -25,6 +25,8 @@ using Return;
 using MethodOverloading;
 using Params;
 using Exception;
+using ConditionalOperator;
+using StringInterpolation;
 
 class Program
 {
@@ -55,6 +57,8 @@ class Program
         // ReturnClass.Explore();
         // MethodOverloadingClass.Explore();
         // ParamsClass.Explore();
-        ExceptionClass.Explore();
+        // ExceptionClass.Explore();
+        // ConditionalOperatorClass.Explore();
+        StringInterpolationClass.Explore();
     }
 }
