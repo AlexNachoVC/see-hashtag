@@ -27,6 +27,7 @@ using Params;
 using Exception;
 using ConditionalOperator;
 using StringInterpolation;
+using MultidimensionalArrays;
 
 class Program
 {
@@ -59,6 +60,7 @@ class Program
         // ParamsClass.Explore();
         // ExceptionClass.Explore();
         // ConditionalOperatorClass.Explore();
-        StringInterpolationClass.Explore();
+        // StringInterpolationClass.Explore();
+        MultidimensionalArraysClass.Explore();
     }
 }
