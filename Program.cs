@@ -24,6 +24,7 @@ using Methods;
 using Return;
 using MethodOverloading;
 using Params;
+using Exception;
 
 class Program
 {
@@ -53,6 +54,7 @@ class Program
         // MethodsClass.Explore();
         // ReturnClass.Explore();
         // MethodOverloadingClass.Explore();
-        ParamsClass.Explore();
+        // ParamsClass.Explore();
+        ExceptionClass.Explore();
     }
 }
