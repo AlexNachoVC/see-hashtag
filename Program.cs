@@ -29,6 +29,7 @@ using ConditionalOperator;
 using StringInterpolation;
 using MultidimensionalArrays;
 using Classes;
+using Objects;
 
 class Program
 {
@@ -63,6 +64,7 @@ class Program
         // ConditionalOperatorClass.Explore();
         // StringInterpolationClass.Explore();
         // MultidimensionalArraysClass.Explore();
-        ClassesClass.Explore();
+        // ClassesClass.Explore();
+        ObjectsClass.Explore();
     }
 }
