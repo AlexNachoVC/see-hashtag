@@ -28,6 +28,7 @@ using Exception;
 using ConditionalOperator;
 using StringInterpolation;
 using MultidimensionalArrays;
+using Classes;
 
 class Program
 {
@@ -61,6 +62,7 @@ class Program
         // ExceptionClass.Explore();
         // ConditionalOperatorClass.Explore();
         // StringInterpolationClass.Explore();
-        MultidimensionalArraysClass.Explore();
+        // MultidimensionalArraysClass.Explore();
+        ClassesClass.Explore();
     }
 }
