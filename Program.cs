@@ -36,6 +36,7 @@ using OverloadedConstructors;
 using Inheritance;
 using AbstractClasses;
 using ArrayOfObjects;
+using ObjectsAsArguments;
 
 class Program
 {
@@ -77,6 +78,7 @@ class Program
         // OverloadedConstructorsClass.Explore();
         // InheritanceClass.Explore();
         // AbstractClassesClass.Explore();
-        ArrayOfObjectsClass.Explore();
+        // ArrayOfObjectsClass.Explore();
+        ObjectsAsArgumentsClass.Explore();
     }
 }
