@@ -34,6 +34,8 @@ using Constructors;
 using Static;
 using OverloadedConstructors;
 using Inheritance;
+using AbstractClasses;
+using ArrayOfObjects;
 
 class Program
 {
@@ -73,6 +75,8 @@ class Program
         // ConstructorsClass.Explore();
         // StaticClass.Explore();
         // OverloadedConstructorsClass.Explore();
-        InheritanceClass.Explore();
+        // InheritanceClass.Explore();
+        // AbstractClassesClass.Explore();
+        ArrayOfObjectsClass.Explore();
     }
 }
