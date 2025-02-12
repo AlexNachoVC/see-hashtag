@@ -30,6 +30,7 @@ using StringInterpolation;
 using MultidimensionalArrays;
 using Classes;
 using Objects;
+using Constructors;
 
 class Program
 {
@@ -65,6 +66,7 @@ class Program
         // StringInterpolationClass.Explore();
         // MultidimensionalArraysClass.Explore();
         // ClassesClass.Explore();
-        ObjectsClass.Explore();
+        // ObjectsClass.Explore();
+        ConstructorsClass.Explore();
     }
 }
