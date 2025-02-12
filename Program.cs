@@ -31,6 +31,7 @@ using MultidimensionalArrays;
 using Classes;
 using Objects;
 using Constructors;
+using Static;
 
 class Program
 {
@@ -67,6 +68,7 @@ class Program
         // MultidimensionalArraysClass.Explore();
         // ClassesClass.Explore();
         // ObjectsClass.Explore();
-        ConstructorsClass.Explore();
+        // ConstructorsClass.Explore();
+        StaticClass.Explore();
     }
 }
