@@ -33,6 +33,7 @@ using Objects;
 using Constructors;
 using Static;
 using OverloadedConstructors;
+using Inheritance;
 
 class Program
 {
@@ -71,6 +72,7 @@ class Program
         // ObjectsClass.Explore();
         // ConstructorsClass.Explore();
         // StaticClass.Explore();
-        OverloadedConstructorsClass.Explore();
+        // OverloadedConstructorsClass.Explore();
+        InheritanceClass.Explore();
     }
 }
