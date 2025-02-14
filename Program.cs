@@ -42,6 +42,7 @@ using ToString;
 using Polymorphism;
 using Interfaces;
 using Lists;
+using ListOfObjects;
 
 class Program
 {
@@ -89,6 +90,7 @@ class Program
         // ToStringClass.Explore();
         // PolymorphismClass.Explore();
         // InterfacesClass.Explore();
-        ListsClass.Explore();
-    }
+        // ListsClass.Explore();
+        ListOfObjectsClass.Explore();
+;    }
 }
