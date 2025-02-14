@@ -40,6 +40,7 @@ using ObjectsAsArguments;
 using MethodOverriding;
 using ToString;
 using Polymorphism;
+using Interfaces;
 
 class Program
 {
@@ -85,6 +86,7 @@ class Program
         // ObjectsAsArgumentsClass.Explore();
         // MethodOverridingClass.Explore();
         // ToStringClass.Explore();
-        PolymorphismClass.Explore();
+        // PolymorphismClass.Explore();
+        InterfacesClass.Explore();
     }
 }
