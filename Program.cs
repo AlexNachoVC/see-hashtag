@@ -44,6 +44,7 @@ using Interfaces;
 using Lists;
 using ListOfObjects;
 using GettersSetters;
+using AutoImplementedProperties;
 
 class Program
 {
@@ -93,6 +94,7 @@ class Program
         // InterfacesClass.Explore();
         // ListsClass.Explore();
         // ListOfObjectsClass.Explore();
-        GettersSettersClass.Explore();
+        // GettersSettersClass.Explore();
+        AutoImplementedPropertiesClass.Explore();
 ;    }
 }
