@@ -38,6 +38,7 @@ using AbstractClasses;
 using ArrayOfObjects;
 using ObjectsAsArguments;
 using MethodOverriding;
+using ToString;
 
 class Program
 {
@@ -81,6 +82,7 @@ class Program
         // AbstractClassesClass.Explore();
         // ArrayOfObjectsClass.Explore();
         // ObjectsAsArgumentsClass.Explore();
-        MethodOverridingClass.Explore();
+        // MethodOverridingClass.Explore();
+        ToStringClass.Explore();
     }
 }
