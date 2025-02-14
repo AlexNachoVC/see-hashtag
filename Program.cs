@@ -37,6 +37,7 @@ using Inheritance;
 using AbstractClasses;
 using ArrayOfObjects;
 using ObjectsAsArguments;
+using MethodOverriding;
 
 class Program
 {
@@ -79,6 +80,7 @@ class Program
         // InheritanceClass.Explore();
         // AbstractClassesClass.Explore();
         // ArrayOfObjectsClass.Explore();
-        ObjectsAsArgumentsClass.Explore();
+        // ObjectsAsArgumentsClass.Explore();
+        MethodOverridingClass.Explore();
     }
 }
