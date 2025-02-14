@@ -39,6 +39,7 @@ using ArrayOfObjects;
 using ObjectsAsArguments;
 using MethodOverriding;
 using ToString;
+using Polymorphism;
 
 class Program
 {
@@ -83,6 +84,7 @@ class Program
         // ArrayOfObjectsClass.Explore();
         // ObjectsAsArgumentsClass.Explore();
         // MethodOverridingClass.Explore();
-        ToStringClass.Explore();
+        // ToStringClass.Explore();
+        PolymorphismClass.Explore();
     }
 }
