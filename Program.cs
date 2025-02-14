@@ -41,6 +41,7 @@ using MethodOverriding;
 using ToString;
 using Polymorphism;
 using Interfaces;
+using Lists;
 
 class Program
 {
@@ -87,6 +88,7 @@ class Program
         // MethodOverridingClass.Explore();
         // ToStringClass.Explore();
         // PolymorphismClass.Explore();
-        InterfacesClass.Explore();
+        // InterfacesClass.Explore();
+        ListsClass.Explore();
     }
 }
