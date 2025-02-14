@@ -43,6 +43,7 @@ using Polymorphism;
 using Interfaces;
 using Lists;
 using ListOfObjects;
+using GettersSetters;
 
 class Program
 {
@@ -91,6 +92,7 @@ class Program
         // PolymorphismClass.Explore();
         // InterfacesClass.Explore();
         // ListsClass.Explore();
-        ListOfObjectsClass.Explore();
+        // ListOfObjectsClass.Explore();
+        GettersSettersClass.Explore();
 ;    }
 }
