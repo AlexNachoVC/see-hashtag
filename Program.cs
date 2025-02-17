@@ -47,6 +47,7 @@ using GettersSetters;
 using AutoImplementedProperties;
 using Enums;
 using Generics;
+using Multithreading;
 
 class Program
 {
@@ -99,6 +100,7 @@ class Program
         // GettersSettersClass.Explore();
         // AutoImplementedPropertiesClass.Explore();
         // EnumsClass.Explore();
-        GenericsClass.Explore();
+        // GenericsClass.Explore();
+        MultithreadingClass.Explore();
 ;    }
 }
