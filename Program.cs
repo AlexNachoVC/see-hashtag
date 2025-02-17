@@ -46,6 +46,7 @@ using ListOfObjects;
 using GettersSetters;
 using AutoImplementedProperties;
 using Enums;
+using Generics;
 
 class Program
 {
@@ -97,6 +98,7 @@ class Program
         // ListOfObjectsClass.Explore();
         // GettersSettersClass.Explore();
         // AutoImplementedPropertiesClass.Explore();
-        EnumsClass.Explore();
+        // EnumsClass.Explore();
+        GenericsClass.Explore();
 ;    }
 }
